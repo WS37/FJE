@@ -1,0 +1,10 @@
+{
+    "icon_families": {
+        "card": "factories.CardIconFactory.CardIconFactory",
+        "geometry": "factories.GeometryIconFactory.GeometryIconFactory"
+    },
+    "styles": {
+        "tree": "factories.TreeStyleFactory.TreeStyleFactory",
+        "rectangle": "factories.RectangleStyleFactory.RectangleStyleFactory"
+    }
+}
