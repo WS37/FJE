@@ -1,7 +1,7 @@
 # FJE
 一、类图
 
-	根目录下classpicture文件。
+	根目录下classpicture.jpg文件。
 
 二、设计模式说明
 
